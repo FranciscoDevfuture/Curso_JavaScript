@@ -9,4 +9,4 @@ if(idade >=18 && nome === 'Lucas'){
     console.log('Entrada não permitida')
 }
 
-//Em java == comparativo e ===
+//Em javacript (==) comparativo e (&&) significa "E" e (===) é um comparativo mais preciso
